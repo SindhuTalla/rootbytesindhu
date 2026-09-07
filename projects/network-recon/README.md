@@ -19,7 +19,8 @@ Executed a service version probe (`-sV`) against discovered targets.
 - Target `10.0.2.15`: Running SSH (OpenSSH 8.9p1) on Port 22 and HTTP (Apache 2.4.52) on Port 80.
 
 ## 📸 Screenshots & Proof of Work
-<img width="250" height="112" alt="image" src="https://github.com/user-attachments/assets/1acc19f6-9eb1-46ad-b27a-3bab8a623205" />
+<img width="342" height="463" alt="image" src="https://github.com/user-attachments/assets/0c46cbaa-e2cd-46be-baad-4fb9aef95705" />
+
 
 
 ## 💡 Key Takeaways
