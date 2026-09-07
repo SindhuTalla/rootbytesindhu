@@ -9,7 +9,9 @@ I am a cybersecurity enthusiast dedicated to mastering both **offensive (Red Tea
 - ⚔️ **Offensive Focus (Red Team):** Reconnaissance, Vulnerability Assessment, Network Scanning & Enumeration
 - 🛡️ **Defensive Focus (Blue Team):** Network Traffic Analysis, Log Monitoring, Incident Response & System Hardening
 - ⚡ **Career Goals:** Aspiring Security Analyst / Junior Penetration Tester / SOC Tier-1 Analyst
-- 📬 **Connect with Me:** [LinkedIn Profile]https://www.linkedin.com/in/saisindhutalla22/ | [Email Me] sindhu.talla2204@gmail.com
+- 📬 **Connect with Me:**
+- LinkedIn Profile: www.linkedin.com/in/saisindhutalla22/ 
+- Email Me sindhu.talla2204@gmail.com
 
 ---
 
