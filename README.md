@@ -44,5 +44,7 @@ I am a cybersecurity enthusiast dedicated to mastering both **offensive (Red Tea
 ## 🔬 Practical Projects
 *As I complete my hands-on labs, I document my proof-of-work here*
 
-* 📁 **[Project 01: Local Network Reconnaissance & Inventory](./projects/network-recon/README.md)**
-  * Mapped local subnet devices and identified open services using Nmap.
+## 📁 Projects Index
+
+* **[Project 01: Network Reconnaissance](./projects/network-recon)** — Automated network mapping and host discovery scripts.
+* **[Project 02: Linux System Navigation & Core Utilities](./projects/linux-navigation)** — Deep dive into VFS architecture, inode resolution, and CLI utilities.
