@@ -21,3 +21,6 @@ I am a dedicated cybersecurity enthusiast currently building hands-on experience
 
 ## 🔬 Practical Projects
 *As I complete my hands-on labs, I document my proof-of-work here*
+
+* 📁 **[Project 01: Local Network Reconnaissance & Inventory](./projects/network-recon/README.md)**
+  * Mapped local subnet devices and identified open services using Nmap.
